@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 hai teman teman
@@ -11,3 +12,7 @@ gua suka nge vlog boi :v
 hai
 hello world
 
+=======
+hai
+Lukmannudin
+>>>>>>> 7b37aba3b0bac0604fb01c9001bd3e03d619ec80
