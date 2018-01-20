@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 hai teman teman
 
@@ -16,3 +17,8 @@ Satria LOVE Lukman
 
 
 dion
+=======
+hai
+
+Update Muhammad Naufal
+>>>>>>> features/naufal
