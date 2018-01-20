@@ -1,5 +1,9 @@
 hai
+<<<<<<< HEAD
 hallo
 
 DIKi SuPRIAdi1:56 PM
 bebad
+=======
+Lukmannudin
+>>>>>>> 7b37aba3b0bac0604fb01c9001bd3e03d619ec80
