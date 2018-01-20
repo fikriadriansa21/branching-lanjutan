@@ -1,4 +1,5 @@
 hai teman teman
+<<<<<<< HEAD
 
 hai teman teman
 
@@ -20,3 +21,7 @@ dion
 hai
 
 Update Muhammad Naufal
+=======
+Nama Saia Fikri Adriansa Yudha
+Saya suka berenang
+>>>>>>> features/fikri
